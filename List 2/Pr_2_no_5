@@ -1,0 +1,12 @@
+#include<iostream.h>
+#include<conio.h>
+#include<iomanip.h>
+void main()
+{
+	float pi=3.14123;
+	clrscr();
+	cout<<"The value of pi::"<<setprecision(2)<<pi;
+  cout<<"Vasu Sapariya";
+  cout<<"220130318016";
+	getch();
+}
