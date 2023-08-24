@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int l,w;
+	cout<<"220130318016"<<endl;
+	cout<<"Vasu sapariya"<<endl;
+	cout<<"Enter the lenght of rectangle : ";
+	cin>>l;
+	cout<<"Enter the width of rectangle : ";
+	cin>>w;
+	cout<<"Rectangle of primeter is: "<<2*(l+w)<<endl;
+	cout<<"Rectangle of Area is: "<<l*w;
+	return 0;
+}
